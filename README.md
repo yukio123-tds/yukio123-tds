@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [お名前]
+# Hi there 👋 I'm Yukio Saito
 
 ### 🔭 About Me
 - 💻 **Focus:** AI / Data Analysis / Cloud Infrastructure
